@@ -23,6 +23,10 @@
 - **Icons:** FontAwesome 6
 - **Authentication:** Laravel Breeze
 
+## 🖼️ Dashboard Preview
+<img width="1913" height="942" alt="Screenshot 2026-05-29 024905" src="https://github.com/user-attachments/assets/062d5f81-5265-4d7a-b46f-df52b16b5ff2" />
+
+
 ## 🚀 Panduan Instalasi Lokal
 
 Jika kamu ingin menjalankan proyek ini di komputermu sendiri (Localhost), ikuti langkah-langkah berikut:
