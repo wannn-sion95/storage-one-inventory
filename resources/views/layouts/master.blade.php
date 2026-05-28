@@ -16,12 +16,14 @@
 
     @include('layouts.sidebar')
 
-    <div class="main-wrapper">
+    <div class="main-wrapper" style="display: flex; flex-direction: column; min-height: 100vh;">
         @include('layouts.navbar')
 
-        <main class="p-4">
+        <main class="p-4" style="flex: 1;">
             @yield('content')
         </main>
+
+        @include('layouts.footer')
     </div>
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
