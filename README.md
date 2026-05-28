@@ -38,5 +38,5 @@ Pastikan kamu sudah menginstal:
 
 1. **Clone repository ini**
    ```bash
-   git clone [https://github.com/USERNAME_GITHUB_LU/stockify-inventory.git](https://github.com/USERNAME_GITHUB_LU/stockify-inventory.git)
+   git clone https://github.com/wannn-sion95/storage-one-inventory.git
    cd stockify-inventory
