@@ -1,6 +1,9 @@
 # 📦 StorageOne - Modern Inventory Management System
 
-![StorageOne Banner](https://capsule-render.vercel.app/api?type=waving&color=0:11998E,100:38EF7D&height=220&section=header&text=StorageOne&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Stock%20Monitoring%20Application&descAlignY=60&descSize=18)(url)
+
+![StorageOne Banner](https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:8B0000,100:FF0000&height=220&section=header&text=StorageOne&fontSize=58&fontColor=ffffff&animation=blinking&fontAlignY=38&desc=Secure%20Inventory%20Control&descAlignY=60&descSize=18)
+
+
 
 **StorageOne** adalah sistem manajemen inventaris (Gudang) tingkat *Enterprise* yang dibangun menggunakan Laravel 11. Aplikasi ini dirancang dengan antarmuka *Clean Minimalist* untuk memudahkan admin gudang dalam memantau, menambah, dan mengelola arus barang secara *real-time*.
 
