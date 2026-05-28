@@ -1,7 +1,6 @@
 # 📦 StorageOne - Modern Inventory Management System
 
-
-![StorageOne Banner](https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:2575FC&height=220&section=header&text=StorageOne&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Modern%20Warehouse%20Management&descAlignY=60&descSize=18)
+![StorageOne Banner](https://capsule-render.vercel.app/api?type=waving&color=0:FF8008,100:FFC837&height=220&section=header&text=StorageOne&fontSize=55&fontColor=ffffff&animation=scaleIn&fontAlignY=38&desc=Inventory%20Dashboard%20System&descAlignY=60&descSize=18)
 
 
 
