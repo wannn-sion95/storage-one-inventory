@@ -1,8 +1,8 @@
-# 📦 Stockify - Modern Inventory Management System
+# 📦 StorageOne - Modern Inventory Management System
 
-![Stockify Banner](https://via.placeholder.com/1200x400/0f172a/ffffff?text=Stockify+Warehouse+Management)
+![StorageOne Banner](https://via.placeholder.com/1200x400/0f172a/ffffff?text=StorageOne+Warehouse+Management)
 
-**Stockify** adalah sistem manajemen inventaris (Gudang) tingkat *Enterprise* yang dibangun menggunakan Laravel 11. Aplikasi ini dirancang dengan antarmuka *Clean Minimalist* untuk memudahkan admin gudang dalam memantau, menambah, dan mengelola arus barang secara *real-time*.
+**StorageOne** adalah sistem manajemen inventaris (Gudang) tingkat *Enterprise* yang dibangun menggunakan Laravel 11. Aplikasi ini dirancang dengan antarmuka *Clean Minimalist* untuk memudahkan admin gudang dalam memantau, menambah, dan mengelola arus barang secara *real-time*.
 
 ## ✨ Fitur Utama
 
